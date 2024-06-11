@@ -1,2 +1,1 @@
-# arch_wallpapers
-Some wallpapers for arch linux made by me:)
+![](https://github.com/thaMilo/arch_wallpapers/blob/main/Ubuntu%20inspired/Original%20Solid.png)
